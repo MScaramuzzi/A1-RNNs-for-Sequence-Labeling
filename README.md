@@ -1,1 +1,1 @@
-# RNNs-for-Sequence-Labeling-A1-
+# A1-RNNs-for-Sequence-Labeling
